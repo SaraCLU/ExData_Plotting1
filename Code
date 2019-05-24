@@ -1,6 +1,6 @@
 ##Set working directory.
 
-setwd("/Users/Saralu/Desktop/Coursera/Topic 4 week 1")
+setwd("/Users/saralu/Desktop/Coursera/Topic 4 week 1")
 
 ## 1. Load and clean the table.
 
